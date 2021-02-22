@@ -37,4 +37,6 @@ no
 ## Questions
 
 no
-![alt text](assets/hmwk10vid.mov)
+![alt text](assets/hmwk10screenshot.mov)
+
+video link: https://github.com/jmurphy0/hmwk10-NoteTaker/blob/master/Assets/hmwk10vid.mov
