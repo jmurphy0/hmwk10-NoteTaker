@@ -24,6 +24,8 @@ A simple app to takes notes online. Deployed by heroku and writes to a json file
 
 ## Usage
 
+https://note-taker-murphy.herokuapp.com
+
 ## Testing
 
 no
